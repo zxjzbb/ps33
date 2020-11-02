@@ -4,6 +4,8 @@
 
 # Session Data files
 .RData
+usa_00003.dta.gz
+ns20200625.dta
 
 # User-specific files
 .Ruserdata
